@@ -10,8 +10,8 @@ profile:
   image_circular: false
   more_info: >
     <p>Ph.D. Candidate</p>
-    <p>Electrical and Computer Engineering</p>
-    <p>University of North Carolina at Charlotte</p>
+    <p>ECE, UNC Charlotte</p>
+   
 
 selected_papers: false
 social: false
@@ -29,7 +29,7 @@ latest_posts:
 
 I am a Ph.D. candidate in Electrical and Computer Engineering at the University of North Carolina at Charlotte, advised by Prof. Ahmed Arafa. My research focuses on designing efficient, robust, and communication-aware algorithms for federated learning systems.
 
-I am particularly interested in personalized federated learning, client clustering, noisy-label robustness, hierarchical federated learning, and distributed privacy-preserving AI systems.
+My work addresses key challenges in federated and distributed learning, including personalization, client clustering, noisy-label robustness, hierarchical learning, and privacy-preserving AI systems.
 
 I am currently preparing for academic and research-focused industry positions.
 
