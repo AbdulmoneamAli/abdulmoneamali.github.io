@@ -14,7 +14,7 @@ profile:
     <p>University of North Carolina at Charlotte</p>
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: false
