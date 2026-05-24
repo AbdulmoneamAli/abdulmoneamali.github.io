@@ -13,8 +13,8 @@ profile:
     <p>Electrical and Computer Engineering</p>
     <p>University of North Carolina at Charlotte</p>
 
-selected_papers: true
-social: true
+selected_papers: false
+social: false
 
 announcements:
   enabled: false
