@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Electrical and Computer Engineering, UNC Charlotte
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_1.jpg
   image_circular: false
   more_info: >
     <p>Ph.D. Candidate</p>
