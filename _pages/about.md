@@ -27,10 +27,9 @@ latest_posts:
   limit: 3
 ---
 
-I am a Ph.D. candidate in Electrical and Computer Engineering at the University of North Carolina at Charlotte, advised by Prof. Ahmed Arafa. My research focuses on designing efficient, robust, and communication-aware algorithms for federated learning systems.
 
-My work addresses key challenges in federated and distributed learning, including personalization, client clustering, noisy-label robustness, hierarchical learning, and privacy-preserving AI systems.
+I am a Ph.D. candidate in Electrical and Computer Engineering at the University of North Carolina at Charlotte, advised by Prof. Ahmed Arafa. My research focuses on federated and distributed learning, with emphasis on efficient, robust, and communication-aware algorithms for privacy-preserving AI systems and wireless networks.
 
-I am currently preparing for academic and research-focused industry positions.
+My work addresses challenges such as personalization, client clustering, noisy-label robustness, hierarchical learning, and communication efficiency. My broader interests include federated learning, distributed AI, optimization, wireless communications, stochastic geometry, and machine learning systems.
 
-My broader research interests include federated learning, distributed AI, optimization, wireless communication networks, and machine learning systems.
+I received my B.Sc. in Electrical Engineering from Zagazig University, Egypt, my M.S. in Computer Science from Nile University, Egypt, and my M.S. in Mathematics from UNC Charlotte. I was a Graduate Fellow at Nile University from 2016 to 2019 and was recognized as an Outstanding Research Assistant by the ECE Department at UNC Charlotte for the 2024–2025 academic year.
