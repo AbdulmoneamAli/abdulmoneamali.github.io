@@ -9,9 +9,9 @@ profile:
   align: right
   image: prof_1.jpg
   image_circular: false
-  more_info: >
-    <p>Ph.D. Candidate</p>
-    <p>ECE, UNC Charlotte</p>
+  # more_info: >
+   # <p>Ph.D. Candidate</p>
+   # <p>ECE, UNC Charlotte</p>
    
 
 selected_papers: false
