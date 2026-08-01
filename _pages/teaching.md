@@ -22,13 +22,11 @@ This page displays a collection of courses with detailed schedules, materials, a
 - Course Name — University, Semester Year
 - Course Name — University, Semester Year
 
-### Summer Schools & Specialized Training
 
-- **Summer School Name**, Organizing Institution, Location, Year  
-  Topics: system identification, machine learning, and control.
+### Summer Schools
 
-- **Summer School Name**, Organizing Institution, Location, Year  
-  Topics: optimization, reinforcement learning, and data-driven methods.
+- **[North American School of Information Theory (NASIT 2023)](https://nasit.seas.upenn.edu/home)**, University of Pennsylvania, Philadelphia, PA, June 2023.
+- **[North American School of Information Theory (NASIT 2022)](https://nasit-2022.seas.ucla.edu/)**, UCLA, Los Angeles, CA, August 2022.
 
 ## Teaching
 
