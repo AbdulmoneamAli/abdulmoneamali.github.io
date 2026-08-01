@@ -8,7 +8,7 @@ nav_order: 7
 ---
 
 - **Bharatkumar S. Joshi Scholarship**, UNC Charlotte, 2026.
-- **Outstanding Graduate Research Assistant Award**, UNC Charlotte, 2025.
+- **[Outstanding Graduate Research Assistant Award](https://ece.charlotte.edu/resources/student-resources/ece-achievement-awards/)**, UNC Charlotte, 2025.
 - **Future Faculty Teaching Fellowship**, UNC Charlotte, 2025.
 - **[Exemplary Reviewer](https://www.comsoc.org/publications/journals/ieee-wcl/reviewer-appreciation)**, *IEEE Wireless Communications Letters*, 2021.
 - **Graduate Assistantship**, UNC Charlotte, 2021.
