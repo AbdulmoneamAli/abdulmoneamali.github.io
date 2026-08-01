@@ -28,13 +28,25 @@ This page displays a collection of courses with detailed schedules, materials, a
 - **[North American School of Information Theory (NASIT 2023)](https://nasit.seas.upenn.edu/home)**, University of Pennsylvania, Philadelphia, PA, June 2023.
 - **[North American School of Information Theory (NASIT 2022)](https://nasit-2022.seas.ucla.edu/)**, UCLA, Los Angeles, CA, August 2022.
 
-## Teaching
+## Teaching Experience
 
-### Teaching Assistant
+### Teaching Assistant — UNC Charlotte
 
-- **Course Name**, University, Semester Year  
-  Instructor: Professor Name
+*Charlotte, NC, USA · August 2022–Present*
 
-### Guest Lectures and Mentoring
+Courses:
 
-- Add relevant lectures, tutorials, student mentoring, or course support here.
+- Convex Optimization and AI Applications
+- Introduction to Machine Learning
+- Introduction to Signals and Systems
+- System Analysis
+- Network Theory I
+
+### Teaching Assistant — Nile University
+
+*Cairo, Egypt · September 2018–December 2021*
+
+Courses:
+
+- Fundamentals of Machine Learning and Statistics
+- Introduction to Programming Using Python
