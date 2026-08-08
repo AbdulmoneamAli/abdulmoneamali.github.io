@@ -16,27 +16,16 @@ This page displays a collection of courses with detailed schedules, materials, a
 
 ## Coursework
 
-### Selected Graduate Coursework — University of North Carolina at Charlotte, USA
-- Machine Learning 
-- Linear Systems Theory 
-- Real Analysis I 
-- Algorithms & Data Structures 
-- Probability Theory I 
-- Real Analysis II 
-- Reinforcement Learning
-- Information Theory
-- Convex Optimization and AI
+**UNC Charlotte**  
+Machine Learning · Linear Systems Theory · Probability Theory · Real Analysis I–II · Reinforcement Learning · Information Theory · Convex Optimization and AI
 
-### Selected Graduate Coursework — Nile University, Egypt
-
-- Wireless Communications
-- Estimation and Detection
-- Queueing Theory
-- Machine Learning
+**Nile University**  
+Wireless Communications · Estimation and Detection · Queueing Theory · Machine Learning
 
 ### Independent Study
 
-- **[Optimization for Machine Learning (CS-439)](https://github.com/epfml/OptML_course)**, EPFL — self-study.
+**[Optimization for Machine Learning (CS-439)](https://github.com/epfml/OptML_course)**, EPFL  
+Optimization methods for machine learning — self-study.
 
 ### Summer Schools
 
