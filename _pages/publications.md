@@ -19,4 +19,8 @@ nav_order: 2
 
 {% bibliography --query @*[keywords~=noise-robust-fl] %}
 
+<h2>Personalized System Identification</h2>
+
+{% bibliography --query @*[keywords~=system-identification] %}
+
 </div>
