@@ -25,7 +25,7 @@ This page displays a collection of courses with detailed schedules, materials, a
 - Real Analysis II 
 - Reinforcement Learning
 - Information Theory
-- Convex Optimization
+- Convex Optimization and AI
 
 
 ### Summer Schools
