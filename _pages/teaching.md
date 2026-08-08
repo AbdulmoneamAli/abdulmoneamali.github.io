@@ -34,6 +34,9 @@ This page displays a collection of courses with detailed schedules, materials, a
 - Queueing Theory
 - Machine Learning
 
+### Independent Study
+
+- **[Optimization for Machine Learning (CS-439)](https://github.com/epfml/OptML_course)**, EPFL — self-study.
 
 ### Summer Schools
 
