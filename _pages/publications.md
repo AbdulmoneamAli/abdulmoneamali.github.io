@@ -11,7 +11,7 @@ nav_order: 2
 
 <h2>Noise-Robust & Personalized Federated Learning</h2>
 
-{% bibliography --query @*[keywords~=personalized-fl] %}
+{% bibliography --query @*[keywords~=noise-robust-fl] %}
 
 <h2>Hierarchical & Multi-Task Federated Learning</h2>
 
