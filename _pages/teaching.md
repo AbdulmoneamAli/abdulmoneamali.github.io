@@ -17,10 +17,13 @@ This page displays a collection of courses with detailed schedules, materials, a
 ## Coursework
 
 ### Graduate Coursework
-
-- Course Name — University, Semester Year
-- Course Name — University, Semester Year
-- Course Name — University, Semester Year
+- Machine Learning - Spring 2022
+- Linear Systems Theory - Fall 2022
+- Real Analysis I - Fall 2023
+- Algorithms & Data Structures — Fall 2024
+- Probability Theory I - Spring 2024 
+- Real Analysis II - Spring 2024
+- 
 
 
 ### Summer Schools
