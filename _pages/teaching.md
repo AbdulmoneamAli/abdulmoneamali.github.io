@@ -16,7 +16,7 @@ This page displays a collection of courses with detailed schedules, materials, a
 
 ## Coursework
 
-### Graduate Coursework
+### Selected Graduate Coursework — University of North Carolina at Charlotte, USA
 - Machine Learning 
 - Linear Systems Theory 
 - Real Analysis I 
@@ -26,6 +26,13 @@ This page displays a collection of courses with detailed schedules, materials, a
 - Reinforcement Learning
 - Information Theory
 - Convex Optimization and AI
+
+### Selected Graduate Coursework — Nile University, Egypt
+
+- Wireless Communications
+- Estimation and Detection
+- Queueing Theory
+- Machine Learning
 
 
 ### Summer Schools
