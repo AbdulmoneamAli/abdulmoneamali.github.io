@@ -34,23 +34,10 @@ Optimization methods for machine learning — self-study.
 
 ## Teaching Experience
 
-### Teaching Assistant — UNC Charlotte
+**UNC Charlotte** — Teaching Assistant  
+*Charlotte, NC · August 2022–Present*  
+Convex Optimization and AI Applications · Introduction to Machine Learning · Introduction to Signals and Systems · System Analysis · Network Theory I
 
-*Charlotte, NC, USA · August 2022–Present*
-
-Courses:
-
-- Convex Optimization and AI Applications
-- Introduction to Machine Learning
-- Introduction to Signals and Systems
-- System Analysis
-- Network Theory I
-
-### Teaching Assistant — Nile University
-
-*Cairo, Egypt · September 2018–December 2021*
-
-Courses:
-
-- Fundamentals of Machine Learning and Statistics
-- Introduction to Programming Using Python
+**Nile University** — Teaching Assistant  
+*Cairo, Egypt · September 2018–December 2021*  
+Fundamentals of Machine Learning and Statistics · Introduction to Programming Using Python
