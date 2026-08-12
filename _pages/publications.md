@@ -7,14 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-{% comment %}
 <div class="publications">
 
 {% bibliography --group_by none %}
 
 </div>
-{% endcomment %}
 
+{% endcomment %}
 <div class="publications">
 
 <h3 class="pub-area">Noise-Robust & Personalized Federated Learning</h3>
@@ -34,3 +33,4 @@ nav_order: 2
 {% bibliography --group_by none --query @*[keywords~=wireless-networks] %}
 
 </div>
+{% endcomment %}
