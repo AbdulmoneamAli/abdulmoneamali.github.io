@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-coursework-amp-teaching",
-          title: "Coursework &amp; Teaching",
+          title: "coursework &amp; teaching",
           description: "Selected coursework, specialized training, and teaching experience.",
           section: "Navigation",
           handler: () => {
