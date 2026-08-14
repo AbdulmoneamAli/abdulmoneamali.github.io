@@ -27,7 +27,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the University 
 
 A central theme of my work is using the **geometry of decentralized data** to extract useful structure when supervision or training dynamics are unreliable. I develop methods for discovering client collaboration structures, identifying unreliable clients and corrupted labels, and designing robust personalized learning algorithms while preserving data locality. I also study the theoretical foundations of eigenspace-based clustering and the impact of communication and computation constraints on hierarchical federated learning.
 
-My broader interests include federated and distributed learning, optimization, system identification, wireless communications, and trustworthy AI. My work has appeared in **IEEE TCCN, IEEE ICC, IEEE WCNC, Asilomar, CVPR FedVision, and Allerton**.
+My broader research interests include federated and distributed learning, optimization, system identification, wireless communications, and trustworthy AI. My work has appeared in **IEEE TCCN, IEEE ICC, IEEE WCNC, Asilomar, CVPR FedVision, and Allerton**.
 
 I received the **Outstanding Graduate Research Assistant Award** from UNC Charlotte and the **Bharatkumar S. Joshi Scholarship**.
 
