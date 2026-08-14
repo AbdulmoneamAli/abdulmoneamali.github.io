@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Coursework & Teaching
+title: coursework & teaching
 description: Selected coursework, specialized training, and teaching experience.
 nav: true
 nav_order: 6
