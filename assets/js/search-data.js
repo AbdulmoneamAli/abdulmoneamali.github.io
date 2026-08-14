@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-awards",
-          title: "Awards",
+          title: "awards",
           description: "Academic honors, scholarships, fellowships, and professional recognition.",
           section: "Navigation",
           handler: () => {
