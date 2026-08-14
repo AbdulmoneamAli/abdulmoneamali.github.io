@@ -14,7 +14,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: federated learning, distributed AI, personalized federated learning, noisy labels, wireless networks, machine learning systems, optimization # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 # Social profiles
 scholar_userid: 2XU2DfcAAAAJ
