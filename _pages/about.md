@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: about
 title: about
@@ -48,5 +47,4 @@ Thesis: *A Stochastic Geometric Approach Towards the Temporal Interference Corre
 
 **B.Sc. in Electrical Engineering (Electronics & Communications)**  
 Zagazig University, Egypt — May 2012  
-Graduation Project: *Underwater Wireless Communications*
-```
+
