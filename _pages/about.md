@@ -29,10 +29,15 @@ latest_posts:
 ---
 
 
-I am a Ph.D. candidate in Electrical and Computer Engineering at the University of North Carolina at Charlotte, advised by Prof. Ahmed Arafa. My research focuses on federated and distributed learning, with emphasis on efficient, robust, and communication-aware algorithms for privacy-preserving AI systems and wireless networks.
+## Abdulmoneam Ali
 
-My work addresses challenges such as personalization, client clustering, noisy-label robustness, hierarchical learning, and communication efficiency. My broader interests include federated learning, distributed AI, optimization, wireless communications, stochastic geometry, and machine learning systems.
+**Ph.D. Candidate in Electrical and Computer Engineering, UNC Charlotte**
 
-I received my B.Sc. in Electrical Engineering from Zagazig University, Egypt, my M.S. in Computer Science from Nile University, Egypt, and my M.S. in Mathematics from UNC Charlotte. 
+I am a Ph.D. candidate in Electrical and Computer Engineering at the University of North Carolina at Charlotte, advised by Prof. Ahmed Arafa. My research focuses on **trustworthy and personalized federated learning**, with particular emphasis on **spectral data geometry, noisy-label robustness, distributed optimization, and system-aware learning**.
 
-I was a Graduate Fellow at Nile University from 2016 to 2019 and was recognized as an Outstanding Research Assistant by the ECE Department at UNC Charlotte for the 2024–2025 academic year.
+A central theme of my work is using the **geometry of decentralized data** to extract information that is difficult to obtain from conventional supervision or training dynamics. I develop methods for discovering client collaboration structures, identifying unreliable clients and corrupted labels, and designing robust personalized learning algorithms while preserving data locality. I also study the theoretical foundations of eigenspace-based clustering and the impact of communication and computation constraints on hierarchical federated learning.
+
+My broader research interests include **federated and distributed learning, optimization, system identification, wireless communications, and trustworthy AI**. My work has appeared in venues including **IEEE TCCN, IEEE ICC, Asilomar, CVPR FedVision, and Allerton**.
+
+I received an M.Sc. in General Mathematics from UNC Charlotte, an M.Sc. in Communication and Information Technology from Nile University, and a B.Sc. in Electrical Engineering from Zagazig University. I received the **Outstanding Graduate Research Assistant Award** from UNC Charlotte and the **Bharatkumar S. Joshi Scholarship**.
+
