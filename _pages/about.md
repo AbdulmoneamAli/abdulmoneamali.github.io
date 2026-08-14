@@ -25,7 +25,7 @@ latest_posts:
 
 I am a Ph.D. candidate in Electrical and Computer Engineering at the University of North Carolina at Charlotte, advised by Prof. Ahmed Arafa. My research focuses on **trustworthy and personalized federated learning**, with emphasis on spectral data geometry, noisy-label robustness, distributed optimization, and system-aware learning.
 
-A central theme of my work is using the **geometry of decentralized data** to extract information when conventional supervision or training dynamics are unreliable. I develop methods for discovering client collaboration structures, identifying unreliable clients and corrupted labels, and designing robust personalized learning algorithms while preserving data locality. I also study the theoretical foundations of eigenspace-based clustering and the impact of communication and computation constraints on hierarchical federated learning.
+A central theme of my work is using the **geometry of decentralized data** to extract useful structure when supervision or training dynamics are unreliable. I develop methods for discovering client collaboration structures, identifying unreliable clients and corrupted labels, and designing robust personalized learning algorithms while preserving data locality. I also study the theoretical foundations of eigenspace-based clustering and the impact of communication and computation constraints on hierarchical federated learning.
 
 My broader interests include federated and distributed learning, optimization, system identification, wireless communications, and trustworthy AI. My work has appeared in **IEEE TCCN, IEEE ICC, IEEE WCNC, Asilomar, CVPR FedVision, and Allerton**.
 
@@ -34,17 +34,15 @@ I received the **Outstanding Graduate Research Assistant Award** from UNC Charlo
 ## Education
 
 **Ph.D. Candidate in Electrical and Computer Engineering**  
-University of North Carolina at Charlotte, USA — Expected Dec. 2026  
-Advisor: Prof. Ahmed Arafa  
-Dissertation: *Designing Efficient Algorithms for Federated Learning Systems*
+University of North Carolina at Charlotte — Expected Dec. 2026  
 
 **M.Sc. in General Mathematics**  
-University of North Carolina at Charlotte, USA — May 2025
+University of North Carolina at Charlotte — May 2025
 
 **M.Sc. in Communication and Information Technology**  
 Nile University, Egypt — Feb. 2021  
-Thesis: *A Stochastic Geometric Approach Towards the Temporal Interference Correlation Analysis of D2D Cache-Enabled Networks*
 
 **B.Sc. in Electrical Engineering (Electronics & Communications)**  
 Zagazig University, Egypt — May 2012  
+
 
