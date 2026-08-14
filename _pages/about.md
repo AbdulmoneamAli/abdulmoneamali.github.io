@@ -1,3 +1,4 @@
+```markdown
 ---
 layout: about
 title: about
@@ -29,4 +30,23 @@ A central theme of my work is using the **geometry of decentralized data** to ex
 
 My broader interests include federated and distributed learning, optimization, system identification, wireless communications, and trustworthy AI. My work has appeared in **IEEE TCCN, IEEE ICC, IEEE WCNC, Asilomar, CVPR FedVision, and Allerton**.
 
-I received an M.Sc. in General Mathematics from UNC Charlotte, an M.Sc. in Communication and Information Technology from Nile University, and a B.Sc. in Electrical Engineering from Zagazig University. I received the **Outstanding Graduate Research Assistant Award** from UNC Charlotte and the **Bharatkumar S. Joshi Scholarship**.
+I received the **Outstanding Graduate Research Assistant Award** from UNC Charlotte and the **Bharatkumar S. Joshi Scholarship**.
+
+## Education
+
+**Ph.D. Candidate in Electrical and Computer Engineering**  
+University of North Carolina at Charlotte, USA — Expected Dec. 2026  
+Advisor: Prof. Ahmed Arafa  
+Dissertation: *Designing Efficient Algorithms for Federated Learning Systems*
+
+**M.Sc. in General Mathematics**  
+University of North Carolina at Charlotte, USA — May 2025
+
+**M.Sc. in Communication and Information Technology**  
+Nile University, Egypt — Feb. 2021  
+Thesis: *A Stochastic Geometric Approach Towards the Temporal Interference Correlation Analysis of D2D Cache-Enabled Networks*
+
+**B.Sc. in Electrical Engineering (Electronics & Communications)**  
+Zagazig University, Egypt — May 2012  
+Graduation Project: *Underwater Wireless Communications*
+```
