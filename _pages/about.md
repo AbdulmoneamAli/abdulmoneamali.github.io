@@ -31,7 +31,7 @@ My broader research interests include federated and distributed learning, optimi
 
 I received the **Outstanding Graduate Research Assistant Award** from UNC Charlotte and the **Bharatkumar S. Joshi Scholarship**.
 
-## Education
+<h2 class="education-heading">Education</h2>
 
 **Ph.D. Candidate in Electrical and Computer Engineering**  
 University of North Carolina at Charlotte — Expected Dec. 2026  
