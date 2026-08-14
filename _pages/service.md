@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/
-title: Service
+title: service
 description: Peer reviewing and professional service.
 nav: true
 nav_order: 8
