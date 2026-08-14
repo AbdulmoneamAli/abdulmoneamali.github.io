@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: Awards
+title: awards
 description: Academic honors, scholarships, fellowships, and professional recognition.
 nav: true
 nav_order: 7
