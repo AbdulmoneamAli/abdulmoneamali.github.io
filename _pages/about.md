@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Electrical and Computer Engineering, UNC Charlotte
 
 profile:
   align: right
-  image: pofile3.jpg
+  image: prof_3.jpg
   image_circular: false
 
 selected_papers: false
