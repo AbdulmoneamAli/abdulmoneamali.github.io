@@ -15,6 +15,7 @@ nav_order: 8
 - *IEEE Transactions on Signal Processing*
 - *IEEE Network*
 - *IEEE Control Systems Letters*
+- *IEEE Wireless Communications Letters*
 
 ### Conferences
 
