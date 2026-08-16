@@ -9,6 +9,7 @@ nav_order: 8
 ## Peer Review
 ### Journals
 
+- *IEEE Transactions on Communications*
 - *IEEE Transactions on Green Communications and Networking*
 - *IEEE/ACM Transactions on Networking*
 - *IEEE Transactions on Signal Processing*
@@ -19,6 +20,7 @@ nav_order: 8
 
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)
+- IEEE International Symposium on Information Theory (ISIT)
 - IEEE International Conference on Communications (ICC)
 - Asilomar Conference on Signals, Systems, and Computers
 - IEEE Wireless Communications and Networking Conference (WCNC)
