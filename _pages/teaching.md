@@ -17,10 +17,10 @@ This page displays a collection of courses with detailed schedules, materials, a
 ## Coursework
 
 **UNC Charlotte**  
-Machine Learning · Linear Systems Theory · Probability Theory · Real Analysis I–II · Reinforcement Learning · Information Theory · Convex Optimization and AI
+Machine Learning · Linear Systems Theory · Probability Theory · Real Analysis I–II · Reinforcement Learning · Information Theory · Convex Optimization and AI . Data Structure and Algorithms 
 
 **Nile University**  
-Wireless Communications · Estimation and Detection · Queueing Theory · Machine Learning
+Wireless Communications · Estimation and Detection · Queueing Theory . Random Processes . Machine Learning and Statistical Analysis
 
 ### Independent Study
 
