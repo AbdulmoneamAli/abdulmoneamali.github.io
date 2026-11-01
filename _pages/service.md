@@ -13,6 +13,7 @@ nav_order: 8
 - *IEEE Transactions on Green Communications and Networking*
 - *IEEE/ACM Transactions on Networking*
 - *IEEE Transactions on Signal Processing*
+- *IEEE Transactions On Signal and Information Processing over Networks*
 - *IEEE Network*
 - *IEEE Control Systems Letters*
 - *IEEE Wireless Communications Letters*
